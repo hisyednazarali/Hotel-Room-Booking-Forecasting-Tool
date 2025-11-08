@@ -1,0 +1,29 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning (optional for hybrid approach)
+scikit-learn
+prophet
+statsmodels
+
+# LLM API integration
+openai
+
+# Jupyter environment (optional for experimentation)
+#jupyter
+#ipykernel
+
+# Utility
+tqdm
+requests
+python-dotenv
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+openpyxl
+streamlit
